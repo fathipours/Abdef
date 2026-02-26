@@ -16,5 +16,5 @@ An advanced, high-performance, and Xray-compatible Anti-Abuse firewall script fo
 Run the following command to install and start the script:
 
 ```bash
-sudo bash -c "$(curl -sL https://raw.githubusercontent.com/fathipours/AbDef/main/abdef.sh)"
+bash <(curl -s https://raw.githubusercontent.com/fathipours/AbDef/main/abdef.sh)"
 ```
